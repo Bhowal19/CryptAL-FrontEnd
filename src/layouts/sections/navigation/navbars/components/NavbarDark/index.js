@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign */
 /**
 =========================================================
-* Material Kit 2 React - v2.1.0
+* CryptAL React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -14,10 +14,10 @@ Coded by www.creative-tim.com
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
 
-// Material Kit 2 React components
+// CryptAL React components
 import MKBox from "components/MKBox";
 
-// Material Kit 2 React examples
+// CryptAL React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 
 // Routes

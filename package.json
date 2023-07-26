@@ -2,16 +2,16 @@
   "name": "material-kit-2-react",
   "version": "2.1.0",
   "private": true,
-  "author": "Creative Tim",
+  "author": "bhowal",
   "license": "See license in https://www.creative-tim.com/license",
-  "description": "React version of Material Kit 2 by Creative Tim",
+  "description": "React version of CryptAL by bhowal",
   "homepage": "https://demos.creative-tim.com/material-kit-react/#/",
   "bugs": {
     "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/ct-material-kit-react.git"
+    "url": "git+https://github.com/Bhowal19/CryptAL-FrontEnd.git"
   },
   "dependencies": {
     "@emotion/cache": "11.10.7",
