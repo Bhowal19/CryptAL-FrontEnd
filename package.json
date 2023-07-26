@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "private": true,
   "author": "bhowal",
-  "license": "See license in https://www.creative-tim.com/license",
+  "license": "See license in https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/license",
   "description": "React version of CryptAL by bhowal",
   "homepage": "https://demos.creative-tim.com/material-kit-react/#/",
   "bugs": {
@@ -73,6 +73,6 @@
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
-    "prettier": "2.8.7"
+    "prettier": "^2.8.7"
   }
 }

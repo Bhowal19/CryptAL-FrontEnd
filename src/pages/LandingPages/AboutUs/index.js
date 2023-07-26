@@ -3,10 +3,10 @@
 * CryptAL React - v2.1.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/material-kit-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
+* Product Page: https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react
+* Copyright 2023 Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)
 
-Coded by www.creative-tim.com
+Coded by Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)
 
  =========================================================
 
@@ -47,8 +47,8 @@ function AboutUs() {
         routes={routes}
         action={{
           type: "external",
-          route: "https://www.creative-tim.com/product/material-kit-react",
-          label: "free download",
+          route: "https://www.linkedin.com/in/ayan-bhowal/",
+          label: "Start Encrypting",
           color: "default",
         }}
         transparent
@@ -89,14 +89,13 @@ function AboutUs() {
                 },
               })}
             >
-              Work with an amazing design
+              Welcome to the world of Security and Cryptography
             </MKTypography>
             <MKTypography variant="body1" color="white" opacity={0.8} mt={1} mb={3}>
-              We&apos;re constantly trying to express ourselves and actualize our dreams. If you
-              have the opportunity to play this game
+              We Unlock, decrypt, and fortify your communication for enhanced security.
             </MKTypography>
             <MKButton color="default" sx={{ color: ({ palette: { dark } }) => dark.main }}>
-              create account
+              Start Encrypting
             </MKButton>
             <MKTypography variant="h6" color="white" mt={8} mb={1}>
               Find us on

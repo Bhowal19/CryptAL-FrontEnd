@@ -107,7 +107,7 @@ function Presentation() {
               >
                 <MKSocialButton
                   component="a"
-                  href="https://twitter.com/intent/tweet?text=Check%20Material%20Kit%20React%20made%20by%20%40CreativeTim%20%23webdesign%20%23react%20%23designsystem%20%23material%20%23uikit&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-kit-react&via=CreativeTim"
+                  href="https://twitter.com/intent/tweet?text=Check%20Material%20Kit%20React%20made%20by%20%40CreativeTim%20%23webdesign%20%23react%20%23designsystem%20%23material%20%23uikit&url=https%3A%2F%2FAyan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)%2Fproduct%2Fmaterial-kit-react&via=CreativeTim"
                   target="_blank"
                   color="twitter"
                   sx={{ mr: 1 }}
@@ -117,7 +117,7 @@ function Presentation() {
                 </MKSocialButton>
                 <MKSocialButton
                   component="a"
-                  href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/material-kit-react"
+                  href="https://www.facebook.com/sharer/sharer.php?u=https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react"
                   target="_blank"
                   color="facebook"
                   sx={{ mr: 1 }}
@@ -127,7 +127,7 @@ function Presentation() {
                 </MKSocialButton>
                 <MKSocialButton
                   component="a"
-                  href="https://www.pinterest.com/pin/create/button/?url=https://www.creative-tim.com/product/material-kit-react"
+                  href="https://www.pinterest.com/pin/create/button/?url=https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react"
                   target="_blank"
                   color="pinterest"
                 >
