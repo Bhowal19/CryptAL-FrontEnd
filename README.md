@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 # [CryptAL React](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react&text=Check%20Material%20kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react)
 
 ![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit-react.svg)](https://github.com/Bhowal19/CryptAL-FrontEnd/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-kit-react.svg)](https://github.com/Bhowal19/CryptAL-FrontEnd/issues?q=is%3Aissue+is%3Aclosed)
+=======
+# CryptAL - Text Encryption and Decryption Website
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/83/original/material-kit-2-react.jpg)
+CryptAL is a web application that allows users to encrypt and decrypt texts securely. It uses modern encryption algorithms to protect sensitive information and ensure that only authorized users can access the original content.
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 
+![CryptAL Screenshot](https://example.com/cryptal-screenshot.png)
+
+<<<<<<< HEAD
 CryptAL React is our newest free MUI Design System based on React. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
 
 _Fully Coded Elements_
@@ -16,10 +23,25 @@ View all components here. (https://Ayan Bhowal (https://www.linkedin.com/in/ayan
 _Documentation built by Developers_
 Each element is well presented in very complex documentation.
 You can read more about the documentation here (https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/learning-lab/react/overview/material-kit/).
+=======
+## Features
 
-_Example Pages_
-If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+- **Text Encryption**: Users can enter their text in the input box and encrypt it using strong encryption algorithms.
+- **Text Decryption**: Users can paste an encrypted text in the input box and decrypt it using the correct decryption key.
+- **Secure Algorithms**: CryptAL uses industry-standard encryption algorithms like AES, RSA, or a combination of these to ensure data security.
+- **Password Protection**: Users can set a secure password or key for encrypting and decrypting their texts.
+- **Copy to Clipboard**: Users can easily copy the encrypted or decrypted text to the clipboard for further use.
+- **User-Friendly Interface**: The website is designed to be intuitive and easy to navigate, making it accessible to users of all skill levels.
+- **Responsive Design**: CryptAL is fully responsive, allowing users to access it from various devices, including desktops, tablets, and smartphones.
 
+## Getting Started
+
+To run CryptAL on your local machine, follow these steps:
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
+
+1. Clone the CryptAL repository from GitHub:
+
+<<<<<<< HEAD
 View example pages here. (https://demos.creative-tim.com/material-kit-react/#/pages/landing-pages/about-us)
 
 **HELPFUL LINKS**
@@ -151,16 +173,26 @@ material-kit-2-react
     ├── jsconfig.json
     ├── package.json
     └── README.md
+=======
+```bash
+git clone https://github.com/your-username/cryptal.git
+cd cryptal
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 ```
 
-## Browser Support
+2. Install the required dependencies:
 
-At present, we officially aim to support the last two versions of the following browsers:
+```bash
+npm install
+```
 
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
+3. Start the development server:
 
-## Resources
+```bash
+npm start
+```
 
+<<<<<<< HEAD
 - [Live Preview](https://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr)
 - [Buy Page](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react?ref=readme-mkr)
 - Documentation is [here](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/learning-lab/react/overview/material-kit/?ref=readme-mkr)
@@ -168,40 +200,65 @@ At present, we officially aim to support the last two versions of the following 
 - [Support](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/contact-us?ref=readme-mkr)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-kit-react/issues)
 - [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
+=======
+4. Open your web browser and visit `http://localhost:3000` to access CryptAL.
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 
-## Reporting Issues
+## Encryption Algorithm
 
+<<<<<<< HEAD
 We use GitHub Issues as the official bug tracker for the CryptAL React. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the CryptAL React. Check the CHANGELOG from your dashboard on our [website](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/product/material-kit-react?ref=readme-mkr).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+=======
+CryptAL uses the Advanced Encryption Standard (AES) as the default encryption algorithm. AES is a widely-used symmetric encryption algorithm known for its security and efficiency.
 
-## Technical Support or Questions
+## Decryption Algorithm
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 
+For decryption, CryptAL uses the RSA algorithm. RSA is an asymmetric encryption algorithm that provides a secure way to decrypt data using a private key.
+
+<<<<<<< HEAD
 If you have questions or need help integrating the product please [contact us](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/contact-us?ref=readme-mkr) instead of opening an issue.
+=======
+## Security Measures
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 
-## Licensing
+- CryptAL does not store any user data or encryption keys on the server or client-side.
+- Users are encouraged to use strong and unique passwords or keys for encryption and decryption.
+- All communication between the client and server is encrypted using HTTPS to protect data during transmission.
 
+<<<<<<< HEAD
 - Copyright 2023 [Ayan And Varun](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)?ref=readme-mkr)
 - Ayan And Varun [license](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/license?ref=readme-mkr)
+=======
+## Contributing
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 
-## Useful Links
+We welcome contributions to improve CryptAL and make it even more secure and user-friendly. If you want to contribute, follow these steps:
 
+<<<<<<< HEAD
 - [More products](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/templates?ref=readme-mkr) from Ayan and Varun
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
 - [Freebies](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/bootstrap-themes/free?ref=readme-mkr) from Ayan and Varun
 - [Affiliate Program](https://Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatacharya (https://www.linkedin.com/in/varunbhattacharya/)/affiliates/new?ref=readme-mkr) (earn money)
+=======
+1. Fork the CryptAL repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`.
+3. Make your changes and commit them: `git commit -m "Add new feature"`.
+4. Push your changes to your fork: `git push origin my-feature`.
+5. Create a pull request on the main CryptAL repository.
 
-##### Social Media
+## License
 
-Twitter: <https://twitter.com/CreativeTim>
+CryptAL is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
-Facebook: <https://www.facebook.com/CreativeTim>
+## Acknowledgments
+>>>>>>> 599763fe5a1c95b01dc9b497a8f44c77c71ee572
 
-Dribbble: <https://dribbble.com/creativetim>
+We would like to thank the developers of the encryption algorithms used in this project for their valuable contributions to the field of data security.
 
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+---
