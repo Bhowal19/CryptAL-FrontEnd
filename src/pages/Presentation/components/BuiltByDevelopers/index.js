@@ -10,13 +10,14 @@ Coded by Ayan Bhowal (https://www.linkedin.com/in/ayan-bhowal/) and Varun Bhatac
 
  =========================================================
 
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* .
 */
 
 // @mui material components
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Icon from "@mui/material/Icon";
+import htu from "assets/images/htu.png";
 
 // CryptAL React components
 import MKBox from "components/MKBox";
@@ -27,11 +28,16 @@ import MKTypography from "components/MKTypography";
 function BuiltByDevelopers() {
   const bgImage =
     "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/desktop.jpg";
-  // const htu = htuImage;
   return (
     <>
       <div className="container max-w-screen-lg mx-auto text-center pb-10">
-        <img src={bgImage} className="self-center object-center items-center max-w-sm"></img>
+        <div className="w-64 mx-5 object-center itens-center text-center">
+          <img
+            src={htu}
+            className="self-center object-center items-center w-screen"
+            width="100%"
+          ></img>
+        </div>
       </div>
       <MKBox
         display="flex"
