@@ -1,4 +1,4 @@
-# 🔒 CyrptAL - Cryptographic Algorithms Windows Application 🔒
+# 🔒 CyrptAl - Cryptographic Algorithms Windows Application 🔒
 
 <div align="center">
   <img src="https://github.com/VarunBhattacharya/CryptAL/assets/109750332/fd23ad7b-3a33-4966-9432-5a97f0a1a2f5" alt="CyrptAL Logo">
